@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/videoView"
+        android:icon="@drawable/baseline_all_videos_icon"
+        android:title="@string/all_videos"/>
+    <item android:id="@+id/folderView"
+        android:icon="@drawable/baseline_all_folder"
+        android:title="@string/all_folders" />
+</menu>
